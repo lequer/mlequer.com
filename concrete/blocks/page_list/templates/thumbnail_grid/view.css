@@ -47,3 +47,7 @@ div.ccm-block-page-list-page-entry-grid-thumbnail-title i {
     display: none;
 }
 
+.ccm-block-page-list-page-entry-grid-item {
+    float:left;
+    margin:15px;
+}

@@ -6,24 +6,26 @@
 				<div class="col-lg-4">
 					<h4>My Bunker</h4>
 					<p>
-						Sydney,<br/>
-						+64 (0)481 329 152, <br/>
-						Sydney, Australia.
+						Blackheath<br/>
+						+61 (0)481 329 152, <br/>
+						NSW, Australia.
 					</p>
 				</div><!-- /col-lg-4 -->
 				
 				<div class="col-lg-4">
 					<h4>My Links</h4>
 					<p>
-						<a href="#">Github</a><br/>
-						<a href="#">Twitter</a><br/>
-						<a href="#">Facebook</a>
+						<a href="http://github.com/lequer">Github</a><br/>
+						<!--<a href="#">Twitter</a><br/>
+						<a href="#">Facebook</a>-->
 					</p>
 				</div><!-- /col-lg-4 -->
 				
 				<div class="col-lg-4">
-					<h4>About Stanley</h4>
-					<p>This cute theme was created to showcase your work in a simple way. Use it wisely.</p>
+					<h4>About this site</h4>
+                                        <p>This cute theme was created by <a href="http://blacktie.co/">BlackTie.co</a>.<br/>
+                                            It is powered by <a href="concrete5.org">Concrete5</a>.
+                                        </p>
 				</div><!-- /col-lg-4 -->
 			
 			</div>
